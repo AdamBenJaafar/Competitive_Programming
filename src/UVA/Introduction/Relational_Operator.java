@@ -1,9 +1,12 @@
-package UVA;
+package UVA.Introduction;
 
 import java.util.Scanner;
 
 /**
  * Created by adam- on 02/06/2016.
+ *
+ * COMPARING
+ *
  */
 public class Relational_Operator {
 
